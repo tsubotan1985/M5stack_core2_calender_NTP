@@ -11,8 +11,8 @@ int n = 7;
 #define purple 0xC18A
 #define light 0xCF3E
 
-const char* SSID = "Redmi K40";
-const char* PASSWORD = "tsuborin";
+const char* SSID = "XXXXXX";
+const char* PASSWORD = "XXXXXX";
 const char* NTP_SERVER = "ntp.jst.mfeed.ad.jp";
 const char* TZ = "JST-9";
 
